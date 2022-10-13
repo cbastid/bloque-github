@@ -1,0 +1,84 @@
+.container{
+    width: 950px;
+    background-color: silver;
+    margin: 0px auto;
+}
+.titulo{
+    color: black;
+    text-align: center;
+    font-size: xx-large;
+}
+.seccion1{
+    height: 200px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    background-color: aqua;
+    border: red 2px solid;
+}
+.seccion2{
+    height: 200px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    background-color: lightpink;
+    border: red 2px solid;
+}
+.seccion3{
+    height: 200px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    background-color: azure;
+    border: red 2px solid;
+}
+.bloq1{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.img1{
+    width: 150px;
+    height: 150px; 
+    padding: 20px;
+}
+.img2{
+    width: 150px;
+    height: 150px;  
+}
+.img3{
+    width: 150px;
+    height: 150px; 
+}
+.bloq2{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.img4{
+    width: 150px;
+    height: 150px; 
+    padding: 20px;
+}
+.img5{
+    width: 150px;
+    height: 150px; 
+}
+.bloq3{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.img6{
+    width: 150px;
+    height: 150px; 
+    padding: 20px;
+}
+.img7{
+    width: 150px;
+    height: 150px;  
+}
+.img8{
+    width: 150px;
+    height: 150px; 
+}
